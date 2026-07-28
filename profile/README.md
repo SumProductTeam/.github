@@ -19,8 +19,18 @@ includes Microsoft MVPs in Excel and award-winning leaders in the field, and we 
 organisations across multiple sectors.
 
 Between us we hold more than 100 years of combined experience. We publish a library of thought
-leadership articles, courses and videos, and we host Excel Virtually Global — an annual event
-that draws over 50 speakers and 3,500 attendees.
+leadership articles, courses and videos, and we host Excel Virtually Global — an annual conference
+running over 30 hours, drawing more than 50 speakers and 3,500 attendees.
+
+We are led by Managing Director Liam Bastick, a Microsoft MVP in Excel, a Fellow of both the ICAEW
+and CIMA, and the author of more than 10 books on Excel and financial modelling. In 2021 he
+received the Financial Modelling Institute's Lifetime Achievement Award.
+
+<!-- NOTE: the leadership paragraph is drawn from public sources rather than your own site, which
+     blocks automated reading. Please confirm the details, and tell us if you would like the
+     specifics added (Liam has been recognised as an Excel MVP well over a dozen times, and the
+     current count will be more recent than anything indexed publicly). -->
+
 
 ## What we do
 
@@ -37,8 +47,9 @@ that draws over 50 speakers and 3,500 attendees.
 
 ## CRaFT
 
-CRaFT is our proprietary system. We hold that a good financial model shows four qualities, and we
-build and review against them.
+CRaFT is our proprietary best-practice methodology. We hold that a good financial model shows four
+qualities, and we build and review against them. Models delivered this way arrive fit for purpose,
+with documentation, sensitivity analysis and dashboard reporting included.
 
 | Quality | What it means |
 | :-- | :-- |
@@ -69,6 +80,7 @@ Nothing is public yet. If you are looking for something specific, [ask us](mailt
 
 - **Web** — [sumproduct.com](https://www.sumproduct.com)
 - **Email** — [contact@sumproduct.com](mailto:contact@sumproduct.com)
+- **LinkedIn** — [linkedin.com/company/sumproduct](https://www.linkedin.com/company/sumproduct)
 
 ---
 
