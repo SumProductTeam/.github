@@ -11,11 +11,16 @@
 
 ## About us
 
-SumProduct is a specialist Microsoft Excel and data analytics consultancy. We help organisations
-harness their data through modelling, consulting, strategy and training, and we are trusted by
-companies across the globe to deliver clarity, precision and insight.
+> We help organisations redefine their direction, and improve performance.
 
-> To empower every organisation to make better decisions through the intelligent use of data.
+SumProduct is a specialist Microsoft Excel and data analytics consultancy. We are finance and
+accounting professionals who solve complex problems and build highly specialised models. Our team
+includes Microsoft MVPs in Excel and award-winning leaders in the field, and we work with
+organisations across multiple sectors.
+
+Between us we hold more than 100 years of combined experience. We publish a library of thought
+leadership articles, courses and videos, and we host Excel Virtually Global — an annual event
+that draws over 50 speakers and 3,500 attendees.
 
 ## What we do
 
@@ -28,8 +33,21 @@ companies across the globe to deliver clarity, precision and insight.
 | **AI** | From AI to BI. |
 | **Auditing** | Independent review of existing models, so errors surface before decisions rest on them. |
 
-<!-- NOTE: the Auditing description above is still a draft. The brand guidelines (p2) carry a
-     "description here" placeholder for it. Please replace with approved wording. -->
+<!-- NOTE: the Auditing description above is still a draft awaiting approved wording. -->
+
+## CRaFT
+
+CRaFT is our proprietary system. We hold that a good financial model shows four qualities, and we
+build and review against them.
+
+| Quality | What it means |
+| :-- | :-- |
+| **Consistency** | Structured modelling that reduces errors and improves reliability. |
+| **Robustness** | Simple, strong, auditable models — no hidden complexity, with error checks built in. |
+| **Flexibility** | Interactive insight, so key assumptions can move within defined boundaries. |
+| **Transparency** | Clear structure and consistent formulas, so the results can be trusted. |
+
+[Read more about CRaFT →](https://www.sumproduct.com/about/)
 
 ## Our repositories
 
@@ -46,23 +64,6 @@ services above.
 -->
 
 Nothing is public yet. If you are looking for something specific, [ask us](mailto:contact@sumproduct.com).
-
-## Brand and design
-
-Anything published here follows the SumProduct brand guidelines. The essentials:
-
-| | Colour | Hex | Where it is used |
-| :--: | :-- | :-- | :-- |
-| ![](https://img.shields.io/badge/-%20-1e3c3b?style=flat-square) | Dark Green | `#1e3c3b` | Primary. Headings, backgrounds, calls to action |
-| ![](https://img.shields.io/badge/-%20-d2f7b1?style=flat-square) | Lime | `#d2f7b1` | Primary accent. Rules, highlights, secondary buttons |
-| ![](https://img.shields.io/badge/-%20-007033?style=flat-square) | Green | `#007033` | Secondary. Logo, supporting elements |
-
-Type is **DM Sans** for headings and body, **Noto Serif** for editorial and pull quotes, with
-Calibri and Arial reserved for Word, PowerPoint and newsletters. Mathematical symbols are the
-brand's visual device and sit at low opacity so layouts stay calm.
-
-Charts and data use a colourblind-safe palette — Blue `#0072b2` and Vermillion `#d55e00` make the
-clearest contrast pair. Never let colour alone carry meaning; pair it with a label, icon or weight.
 
 ## Get in touch
 
